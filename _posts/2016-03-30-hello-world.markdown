@@ -54,4 +54,4 @@ Xiyue 的 Blog 又开通了。
 
 Good luck.
 
-—— cosmo 记于2016Q1尾
+—— cosmo 后记于 2016.Q1尾
