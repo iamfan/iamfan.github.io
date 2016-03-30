@@ -1,20 +1,5 @@
-## 前言
-
-Xiyue 的 Blog 又开通了。
-
-[跳至正文 ](#build)
-
-
-
-希望好好找个地方随便写点东西。
-
-
-<p id = "build"></p>
----
-
 ## 正文
-
-接下来说说搭建这个博客的技术细节。  
+ 
 
 正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog 的技术方案，非常轻松时尚。
 
@@ -29,15 +14,14 @@ Xiyue 的 Blog 又开通了。
 
 ---
 
+
+## 后记
+
+
 推荐链接：
 
 * [http://www.ezlippi.com/blog/2015/03/github-pages-blog.html](http://www.ezlippi.com/blog/2015/03/github-pages-blog.html
 )
-* [https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
 
 
-## 后记
-
-Good luck.
-
-—— cosmo 后记于 2016Q1尾
+这个模板是从[Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) fork 的。感谢这个作者！
