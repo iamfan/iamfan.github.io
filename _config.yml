@@ -3,8 +3,8 @@ title: Xiyue Blog
 SEOTitle: 喜越的博客 | Xiyue Blog
 header-img: img/home-bg.jpg
 email: hello@xiyue.io
-description: ""
-keyword: ""
+description: "喜越的博客 | 关于程序与架构、设计与生活 | 这里是 @Xiyue喜越 的个人博客，与你一起发现更大的世界。"
+keyword: "喜越, 范喜越, 范喜悦, Xiyue, 喜越的博客, 喜悦的博客, 范喜越的博客, 范喜悦的博客, 技术博客, 个人网站, Xiyue Blog, @fanxiyue, @xiyue, fanxiyue, 互联网, 产品, Java, 设计, 程序, 架构, 程序员, 架构师"
 url: "http://xiyue.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
