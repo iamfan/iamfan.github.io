@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiyue Blog</title>
-    <description></description>
+    <description>喜越的博客 | 关于程序与架构、设计与生活 | 这里是 @Xiyue喜越 的个人博客，与你一起发现更大的世界。</description>
     <link>http://xiyue.io/</link>
     <atom:link href="http://xiyue.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 30 Mar 2016 16:41:09 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2016 16:41:09 +0800</lastBuildDate>
+    <pubDate>Wed, 30 Mar 2016 19:45:48 +0800</pubDate>
+    <lastBuildDate>Wed, 30 Mar 2016 19:45:48 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
