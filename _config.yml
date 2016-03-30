@@ -6,7 +6,7 @@ email: hello@xiyue.io
 description: ""
 keyword: ""
 url: "http://xiyue.io"              # your host, for absolute URL
-baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
